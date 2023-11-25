@@ -1,5 +1,5 @@
 # Open Asset Import Library (assimp)
 
-Plugin to Assimp, a library to import and export various 3d-model-formats including scene-post-processing to generate missing render data.
+Плагин к Assimp, библиотеке для импорта и экспорта различных форматов модели 3d, включая постобработку сцен для генерации недостающих данных по отображению.
 
 https://github.com/assimp/assimp#open-asset-import-library-assimp
